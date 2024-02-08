@@ -1,6 +1,3 @@
 This is main Change from local 1
 This is Another change from local
-<<<<<<< HEAD
-=======
 This is --dry-run
->>>>>>> parent of 202e945 (Delete main.txt)
